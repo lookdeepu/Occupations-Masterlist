@@ -16,65 +16,22 @@ Purpose: To consolidate occupation-level data across ESCO, O*NET, and Singapore 
 
 Each row in the spreadsheet represents a unique occupation and includes the following columns:
 
-Column Name
-
-Description
-
-Seq
-
-Sequence number for indexing
-
-Occupation
-
-Title of the occupation
-
-ESCO Code
-
-European Skills, Competences, Qualifications and Occupations (ESCO) code
-
-Definition
-
-Brief description of the occupation
-
-Industry
-
-Primary industry associated with the occupation
-
-Future Skill?
-
-Indicator of whether the occupation involves emerging or future skills
-
-Career Pathway
-
-Typical career progression or pathway
-
-Competencies
-
-Key technical or functional competencies required
-
-Core Skills
-
-Foundational skills relevant across industries
-
-Certifications (G)
-
-Graduate-level certifications or qualifications
-
-Certifications (External)
-
-Recognized external certifications (e.g., CCEO, PMP, etc.)
-
-Technologies
-
-Tools, platforms, or software commonly used
-
-Soft Skills
-
-Interpersonal and cognitive skills essential for success
-
-Source
-
-Origin of the data (e.g., JSA, ESCO, O*NET, SkillsFuture)
+| Column Name               | Description                                                              |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Seq                       | Sequence number for indexing                                             |
+| Occupation                | Title of the occupation                                                  |
+| ESCO Code                 | European Skills, Competences, Qualifications and Occupations (ESCO) code |
+| Definition                | Brief description of the occupation                                      |
+| Industry                  | Primary industry associated with the occupation                          |
+| Future Skill?             | Indicator of whether the occupation involves emerging or future skills   |
+| Career Pathway            | Typical career progression or pathway                                    |
+| Competencies              | Key technical or functional competencies required                        |
+| Core Skills               | Foundational skills relevant across industries                           |
+| Certifications (G)        | Graduate-level certifications or qualifications                          |
+| Certifications (External) | Recognized external certifications (e.g., CCEO, PMP, etc.)               |
+| Technologies              | Tools, platforms, or software commonly used                              |
+| Soft Skills               | Interpersonal and cognitive skills essential for success                 |
+| Source                    | Origin of the data (e.g., JSA, ESCO, O*NET, SkillsFuture)                |
 
 🌍 Classification Systems
 
