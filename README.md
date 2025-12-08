@@ -4,7 +4,7 @@ Occupations Masterlist
 
 This repository contains a structured masterlist of occupations designed to support career mapping, workforce planning, and strategic talent development. The dataset is organized to align with international classification systems and includes key attributes for each occupation.
 
-📁 File Overview
+## 📁 File Overview
 
 Filename: Occupations List Taxonomy Dec 2025.xlsx
 
@@ -12,7 +12,7 @@ Format: Excel spreadsheet
 
 Purpose: To consolidate occupation-level data across ESCO, O*NET, and Singapore classification systems.
 
-🧭 Data Structure
+## 🧭 Data Structure
 
 Each row in the spreadsheet represents a unique occupation and includes the following columns:
 
@@ -33,7 +33,7 @@ Each row in the spreadsheet represents a unique occupation and includes the foll
 | Soft Skills               | Interpersonal and cognitive skills essential for success                 |
 | Source                    | Origin of the data (e.g., JSA, ESCO, O*NET, SkillsFuture)                |
 
-🌍 Classification Systems
+## 🌍 Classification Systems
 
 This masterlist integrates data from three major occupational frameworks:
 
@@ -43,7 +43,7 @@ O*NET (US): Offers detailed descriptors for job roles, including skills, tasks, 
 
 Singapore Standard Occupational Classification (SSOC): Aligns with SkillsFuture and national workforce planning.
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Career guidance and pathway planning
 
@@ -55,7 +55,7 @@ Strategic hiring and talent development
 
 Curriculum design and training alignment
 
-📌 Notes
+## 📌 Notes
 
 Some fields may be marked as "TBC" (To Be Confirmed) pending further validation.
 
@@ -63,8 +63,9 @@ Certification and technology fields are curated based on relevance and availabil
 
 Future updates will include expanded mappings and additional occupation entries.
 
-📬 Contributions
+## 📬 Contributions
 
 If you have suggestions or verified data for additional occupations, feel free to fork the repository and submit a pull request.
 
-© 2025 Occupations Masterlist | Maintained by lookdeepu
+## ⛏️ Toolkit
+
